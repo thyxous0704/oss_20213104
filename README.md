@@ -9,7 +9,7 @@
   
 2. 옵션 없이 입력하면 일정 간격(기본 3초)으로 화면을 갱신하며 정보를 보여줌
   
-  <img src="https://user-images.githubusercontent.com/106811802/172003241-dd4034ad-0d0b-4d4d-8891-106991932fe8.png" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/106811802/172003241-dd4034ad-0d0b-4d4d-8891-106991932fe8.png" width="80%" height="80%">
 
 3. top 정보 시스템 내용
 * 첫 번째 줄 : 서버 정보를 담고 있는 줄
